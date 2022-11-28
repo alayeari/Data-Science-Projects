@@ -9,7 +9,8 @@
 - data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
 - House Prices notebook - for the the whole project
 
-## Using house prices dataset from kaggle we will answer 3 main questions using data analysis and visualizations.
+## About the project
+#### Using house prices dataset from kaggle we will answer 3 main questions using data analysis and visualizations.
 - What are the most features affecting the house price?
 - On average which Neighborhood has the highest price and which one has the lowest?
 - What is the trend of the house pricing with respect to the YearBuilt feature?
