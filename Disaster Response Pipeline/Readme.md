@@ -40,3 +40,5 @@ A Python script, train_classifier.py, writes a machine learning pipeline that:
 ##### 3. Flask Web App
 - The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. The outputs are shown below:
 
+![nlp project](https://user-images.githubusercontent.com/109032944/209447529-e5164cf1-2eac-4e72-ae96-aca451269b54.PNG)
+
